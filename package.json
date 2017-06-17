@@ -1,0 +1,30 @@
+{
+    "name": "simpleratingpoll",
+    "version": "1.0.0",
+    "description": "simpleratingpollsite",
+    "main": "index.js",
+    "dependencies": {
+        "node": "^0.0.0",
+        "nodemon": "^1.11.0"
+    },
+    "devDependencies": {},
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "start": "node ./index.js",
+        "dev": "nodemon index.js"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/indraone01/SimpleRatingPollAjax.git"
+    },
+    "keywords": [
+        "rate",
+        "poll"
+    ],
+    "author": "Andri Indrawan",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/indraone01/SimpleRatingPollAjax/issues"
+    },
+    "homepage": "https://github.com/indraone01/SimpleRatingPollAjax#readme"
+}
