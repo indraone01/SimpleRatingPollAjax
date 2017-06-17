@@ -1,0 +1,10 @@
+{
+  "showSurvey" : true,
+  "surveyType" : "NPS",
+  "bgColor" : "#EEEEEE",
+  "txtColor" : "#000000",
+  "npsSettings": {
+    "npsBgColor":"#FFFFFF",
+    "npsText" : "How likely is it that you would recommend happyuser to a friend or colleague?"
+  }
+}

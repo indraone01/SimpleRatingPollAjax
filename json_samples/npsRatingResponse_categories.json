@@ -1,0 +1,33 @@
+{
+  "questionResponseId":"2345",
+  "isFinal" : false,
+  "viewType" : "categories",
+  "categoriesQuestionText":"Please tell us what we should improve",
+  "categories" : [
+    {
+      "id": 423,
+      "value": "Bug",
+      "color" : "#93CBC2"
+    },
+    {
+      "id": 424,
+      "value": "Design",
+      "color" : "#EBE498"
+    },
+    {
+      "id": 425,
+      "value": "Workflow",
+      "color" : "#73C48C"
+    },
+    {
+      "id": 426,
+      "value": "Functionality",
+      "color" : "#DCA5AF"
+    },
+    {
+      "id": 427,
+      "value": "Other",
+      "color" : "#BD676D"
+    }
+    ]
+}

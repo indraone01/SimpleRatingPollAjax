@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="utf-8" />
+    <link rel="shortcut icon" href="favicon.ico" type="image/x-icon">
+    <link rel="icon" href="favicon.ico" type="image/x-icon">
+    <title>happyuser</title>
+    <script>
+        (function() {
+            window.happyuser = window.happyuser || function() {
+                (window.happyuser.q = window.happyuser.q || []).push(arguments);
+            };
+            window.happyuser.l = 1 * new Date();
+            var script = document.createElement("script");
+            var parent = document.getElementsByTagName("script")[0].parentNode;
+            script.async = 1;
+            script.src = "happyuserwidget.js";
+            parent.appendChild(script);
+        })();
+
+        //This is the json mentioned in the PDF. There can also be more traits. The 3 traits here are a example
+        var users = {}
+        users['questionKey'] = 'k2lj30sdfnk2n4';
+        users['userId'] = '1234';
+        users['traits'] = {};
+        users['traits']['name'] = 'John Doe';
+        users['traits']['email'] = 'john@doe.com';
+        users['traits']['createdAt'] = 1 * new Date();
+        users['referrer'] = location.toString();
+        users['preview'] = false;
+        users['forceShow'] = false;
+        users['widgetVersion'] = '1.0';
+
+        happyuser(users);
+        /*console.log(window);
+        console.log(window.happyuser.q[0]);
+        console.log(window.happyuser.q[0][0].questionKey);*/
+    </script>
+
+</head>
+
+<body>
+
+</body>
+
+</html>

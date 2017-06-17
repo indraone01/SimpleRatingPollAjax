@@ -1,0 +1,30 @@
+{
+    "questionResponseId": 2345,
+    "isFinal": true,
+    "viewType": "social-icons",
+    "socialText": "Share you love for us.",
+    "predefinedShareText": "Hey there, I am using happyuser. It is great!",
+    "socialIconColor": "#BFE0F8",
+    "socialIconHoverColor": "#4285F4",
+    "social-icons": [{
+            "id": 732,
+            "value": "Bug",
+            "color": "#93CBC2"
+        },
+        {
+            "id": 733,
+            "value": "Design",
+            "color": "#EBE498"
+        },
+        {
+            "id": 734,
+            "value": "Workflow",
+            "color": "#73C48C"
+        },
+        {
+            "id": 735,
+            "value": "Functionality",
+            "color": "#DCA5AF"
+        }
+    ]
+}

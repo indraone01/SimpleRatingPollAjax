@@ -1,0 +1,13 @@
+{
+  "questionResponseId":2345,
+  "categoryId": 425,
+  "questionKey": "k2lj30sdfnk2n4",
+  "userId": "1234",
+  "referrer": "http://link.from/the/site/the/widget/was/called",
+  "traits": {
+    "name": "John Doe",
+    "email": "john@doe.com",
+    "createdAt": "1492289331"
+  },
+  "timeShown": "1492289605"
+}

@@ -1,0 +1,8 @@
+{
+  "questionResponseId" : 2345,
+  "isFinal" : true,
+  "viewType" : "textQuestion",
+  "textfieldQuestion":"Would you like to give us further information?",
+  "placeHolderText" : "Please type in your message...",
+  "sendButtonText" : "SEND"
+}

@@ -1,0 +1,13 @@
+{
+  "questionKey": "k2lj30sdfnk2n4",
+  "userId": "1234",
+  "traits": {
+    "name": "John Doe",
+    "email": "john@doe.com",
+    "createdAt": "1492289331"
+  },
+  "referrer": "http://link.from/the/site/the/widget/was/called",
+  "preview": false,
+  "forceShow": false,
+  "widgetVersion": "1.0"
+}

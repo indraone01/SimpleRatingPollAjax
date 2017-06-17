@@ -1,0 +1,7 @@
+{
+  "questionResponseId":2345,
+  "isFinal" : true,
+  "viewType" : "message",
+  "showSeconds" : 5,
+  "thankYouText":"Thank you very much for your voting. <br> Here is a special <a href='test.com'> link</a> for your next visit."
+}
